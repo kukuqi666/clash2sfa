@@ -20,5 +20,11 @@ SFA remote 中填入链接，可以通过 https://yacd.metacubex.one/ 切换节�
 ## 可转换的协议
 见 https://github.com/xmdhs/clash2singbox#%E6%94%AF%E6%8C%81%E5%8D%8F%E8%AE%AE
 
-## 命令行版本
+## 感谢大佬[主页](https://github.com/xmdhs)
+
+命令行版本:
 https://github.com/xmdhs/clash2singbox
+
+
+web版本:
+https://github.com/xmdhs/clash2sfa
